@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-king&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-king&show_icons=true&count_private=true&theme=radical&hide_title=true)
 
 ## 🧑‍💻 Most Used Languages
 
