@@ -1,17 +1,17 @@
 # Hi there, I'm Shubham Kumar 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative projects and contributing to the open-source community. I specialize in anime streaming websites, mobile applications, and more.
+Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative projects and contributing to the open-source community. I specialize in websites development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubham-king&label=Profile%20Views&color=brightgreen)
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on a **[AI Assistant Mobile App](https://github.com/shubham-king/ai-assistant-app)**
+- 🔭 I’m currently working on a **[Backend Projects](#)**
 - 🌱 I’m learning **AI/ML** and improving my skills in **Node.js** and **React**
-- 👯 I’m looking to collaborate on **open-source projects** and **anime-related apps**
-- 🤔 I’m looking for help with **optimizing mobile apps**
-- 💬 Ask me about **Anime** development, **Web Development**, or **App Development**
-- 📫 How to reach me: **shubhamkumar.contact@gmail.com**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 🤔 I’m looking for help with **Well optimize Web3 Website Development**
+- 💬 Ask me about **API Development** , **Web Development**, or **App Development**
+- 📫 How to reach me: **Swikki099@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge anime fan and enjoy playing around with new technologies!
 
@@ -31,11 +31,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-king&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
+## 🧑‍💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-king&layout=compact&theme=radical)
+
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-kumar/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/shubham_king)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github)](https://shubhamkumar.tech)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/shubham00109)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/ig.divyanshu.kumar/)
+- [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram)](https://t.me/Mr_RDxWap)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/+919771557165) 
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github)](https://shubhamkumar.tech)-->
 
 ## 📂 My Projects
 
