@@ -35,6 +35,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-king&layout=compact&theme=radical)
 
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubham-king&theme=radical)
+
+
 ## 🔗 Connect with Me
 
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/shubham00109)
