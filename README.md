@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/+919771557165) 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github)](https://shubhamkumar.tech)-->
 
-## 📂 My Projects
+<!--## 📂 My Projects
 
 Here are some of my recent and most popular projects:
 
@@ -55,7 +55,7 @@ Here are some of my recent and most popular projects:
 
 - 🔝 Contributor to multiple **open-source anime projects**
 - 🏆 Winner of the **Best Mobile App** at **DevCon 2024**
-- 🚀 Contributed to **Anime-related APIs** and **Web Scraping Projects**
+- 🚀 Contributed to **Anime-related APIs** and **Web Scraping Projects** -->
 
 ## 💼 Languages and Tools
 
@@ -65,11 +65,11 @@ Here are some of my recent and most popular projects:
 - **Tools**: Git, Docker, Jenkins, VS Code, Postman
 - **Others**: RESTful APIs, Firebase, Heroku
 
-## 📝 Blog Posts
+<!--## 📝 Blog Posts
 
 - **[100 Ways to Make Money](https://medium.com/@shubhamkumar/100-ways-to-make-money)**
 - **[What Women Want: A Modern Guide](https://medium.com/@shubhamkumar/what-women-want-a-modern-guide)**
-- **[How to Build an AI Assistant](https://medium.com/@shubhamkumar/how-to-build-an-ai-assistant)**
+- **[How to Build an AI Assistant](https://medium.com/@shubhamkumar/how-to-build-an-ai-assistant)**-->
 
 ---
 
