@@ -1,6 +1,7 @@
 # Hi there, I'm Shubham Kumar 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative projects and contributing to the open-source community. I specialize in websites development.
+Welcome to my GitHub profile! I'm a passionate developer who loves building innovative projects and contributing to the open-source community. I specialize in website development.
+**This is my Test Github Account**. I created it when I was about to start coding and had no idea about it.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubham-king&label=Profile%20Views&color=brightgreen)
 
